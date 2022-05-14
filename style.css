@@ -15,6 +15,11 @@ h1{
 }
 h2{
     color: gray;
+    text-align: center;
+}
+h3{
+    color: gray;
+    padding-left: 5%;
 }
 body{
     font-family: 'Source Sans Pro', sans-serif;
@@ -34,6 +39,7 @@ body{
 .introduction{
     background-image: url(images/shapes/);
 }
+
 .about-me{
     background-image: url(images/shapes/Frame58.jpg);
     background-repeat: no-repeat;
@@ -44,4 +50,35 @@ body{
 }
 .about-me p{    
     padding-right: 5%;
+    text-align: justify;
+}
+
+.my-recipies{
+    color: black;
+}
+.my-recipies p{
+    text-align:center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+.one-third-width{
+    width: 33%;
+    padding-left: 5%;
+}
+.one-third-width img{
+    width: 90%;
+    padding: 5%;
+}
+.one-third-width p{
+
+}
+.recipies-item{
+    width: 30%;
+    padding: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px gray;
+    
 }
