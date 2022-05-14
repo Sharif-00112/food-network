@@ -69,9 +69,7 @@ body{
     width: 90%;
     padding: 5%;
 }
-.one-third-width p{
 
-}
 .recipies-item{
     width: 30%;
     padding: 2%;
@@ -92,3 +90,10 @@ body{
     text-align: center;
 }
 
+footer{
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
